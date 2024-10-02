@@ -1,0 +1,1 @@
+# plugins-proteusthemes-mailchimp-widget
